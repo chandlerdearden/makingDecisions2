@@ -16,6 +16,7 @@ let firstItem = arr[0]
 
 //Code Here
 arr.pop()
+console.log(arr)
 
 ////////// PROBLEM 3 //////////
 
